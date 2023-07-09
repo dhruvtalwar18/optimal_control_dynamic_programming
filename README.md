@@ -28,7 +28,7 @@ The objective is to guide an agent to the goal while considering the possibility
       <p align="center">Fig.2 Image 2</p>
     </td>
     <td align="center">
-      <img src="https://github.com/dhruvtalwar18/optimal_control_dynamic_programming/blob/main/Results/Known_envs/doorkey-6x6-direct.gif" title="Image 3" style="width: 300px; height: 300px;">
+      <img src="https://github.com/dhruvtalwar18/optimal_control_dynamic_programming/blob/main/Results/Known_envs/doorkey-6x6-direct.gif" title="Image 3" style="width: 300px; height: 300px;" autoplay loop muted>
       <br>
       <p align="center">Fig.3 Image 3</p>
     </td>
