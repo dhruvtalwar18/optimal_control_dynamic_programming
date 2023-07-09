@@ -18,7 +18,7 @@ The objective is to guide an agent to the goal while considering the possibility
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github.com/dhruvtalwar18/optimal_control_dynamic_programming/blob/main/Results/Known_envs/doorkey-5x5-normal.gif" title="Image 1" style="width: 300px; height: 300px;">
+      <img src="https://github.com/dhruvtalwar18/optimal_control_dynamic_programming/blob/main/Results/Known_envs/doorkey-5x5-normal.gif" title="Image 1" style="width: 300px; height: 300px;" loop>
       <br>
       <p align="center">Fig.1 Image 1</p>
     </td>
