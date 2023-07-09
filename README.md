@@ -13,48 +13,86 @@ The objective is to guide an agent to the goal while considering the possibility
 
 
 
-<h1><b> Known and Unknown environment results </b></h1>
+<h1><b> Known environment results </b></h1>
 
 <table align="center">
   <tr>
     <td align="center">
       <img src="https://github.com/dhruvtalwar18/optimal_control_dynamic_programming/blob/main/Results/Known_envs/doorkey-5x5-normal.gif" title="Image 1" style="width: 300px; height: 300px;" loop>
       <br>
-      <p align="center">Fig.1 Image 1</p>
+      <p align="center">Fig.1 5x5 normal</p>
     </td>
     <td align="center">
       <img src="https://github.com/dhruvtalwar18/optimal_control_dynamic_programming/blob/main/Results/Known_envs/doorkey-6x6-normal.gif" title="Image 2" style="width: 300px; height: 300px;">
       <br>
-      <p align="center">Fig.2 Image 2</p>
+      <p align="center">Fig.2 6x6 Normal</p>
     </td>
     <td align="center">
       <img src="https://github.com/dhruvtalwar18/optimal_control_dynamic_programming/blob/main/Results/Known_envs/doorkey-6x6-direct.gif" title="Image 3" style="width: 300px; height: 300px;" autoplay loop muted>
       <br>
-      <p align="center">Fig.3 Image 3</p>
+      <p align="center">Fig.3 6x6 Direct</p>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://github.com/dhruvtalwar18/optimal_control_dynamic_programming/blob/main/Results/Known_envs/doorkey-8x8-direct.gif" title="Image 4" style="width: 300px; height: 300px;">
       <br>
-      <p align="center">Fig.4 Image 4</p>
+      <p align="center">Fig.4 8x8 Direct</p>
     </td>
     <td align="center">
       <img src="https://github.com/dhruvtalwar18/optimal_control_dynamic_programming/blob/main/Results/Known_envs/doorkey-8x8-normal.gif" title="Image 5" style="width: 300px; height: 300px;">
       <br>
-      <p align="center">Fig.5 Image 5</p>
+      <p align="center">Fig.5 8x8 Normal</p>
     </td>
     <td align="center">
       <img src="https://github.com/dhruvtalwar18/optimal_control_dynamic_programming/blob/main/Results/Known_envs/doorkey-8x8-shortcut.gif" title="Image 6" style="width: 300px; height: 300px;">
       <br>
-      <p align="center">Fig.6 Image 6</p>
+      <p align="center">Fig.6 8x8 Shotcut</p>
     </td>
   </tr>
 </table>
 
+<br>
 
 
+<h1><b> Samples from Unknown environment results </b></h1>
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/dhruvtalwar18/optimal_control_dynamic_programming/blob/main/Results/Unknown_envs/DoorKey-8x8-12.gif" title="Image 1" style="width: 300px; height: 300px;" loop>
+      <br>
+      <p align="center">Fig.1 Sample 1</p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/dhruvtalwar18/optimal_control_dynamic_programming/blob/main/Results/Unknown_envs/DoorKey-8x8-16.gif" title="Image 2" style="width: 300px; height: 300px;">
+      <br>
+      <p align="center">Fig.2 Sample 2</p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/dhruvtalwar18/optimal_control_dynamic_programming/blob/main/Results/Unknown_envs/DoorKey-8x8-2.gif" title="Image 3" style="width: 300px; height: 300px;" autoplay loop muted>
+      <br>
+      <p align="center">Fig.3 Sample 3</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/dhruvtalwar18/optimal_control_dynamic_programming/blob/main/Results/Unknown_envs/DoorKey-8x8-24.gif" title="Image 4" style="width: 300px; height: 300px;">
+      <br>
+      <p align="center">Fig.4 Sample 4</p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/dhruvtalwar18/optimal_control_dynamic_programming/blob/main/Results/Unknown_envs/DoorKey-8x8-30.gif" title="Image 5" style="width: 300px; height: 300px;">
+      <br>
+      <p align="center">Fig.5 Sample 5</p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/dhruvtalwar18/optimal_control_dynamic_programming/blob/main/Results/Unknown_envs/DoorKey-8x8-36.gif" title="Image 6" style="width: 300px; height: 300px;">
+      <br>
+      <p align="center">Fig.6 Sample 6</p>
+    </td>
+  </tr>
+</table>
 
 
 
