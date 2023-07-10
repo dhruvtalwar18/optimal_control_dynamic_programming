@@ -98,4 +98,46 @@ The objective is to guide an agent to the goal while considering the possibility
 
 <h1><b> Code Setup </b></h1>
 
+Create a conda environment 
+```
+conda create -name optimal_control
+conda activate optimal_control
+git clone https://github.com/dhruvtalwar18/optimal_control_dynamic_programming
+cd optimal_control_dynamic_programming
+pip install -r requirements.txt
 
+```
+
+
+<h2> Helper functions </h2>
+
+1. utils.py
+The file utils.py contains several helpful tools that you may find useful for your project.
+
+The step() function allows you to move your agent within the environment.
+The generate_random_env() function generates a random environment that can be used for debugging purposes.
+The load_env() function is used to load pre-defined test environments.
+The save_env() function enables you to save the current environment for later reproduction of results.
+The plot_env() function provides a convenient way to visualize your current environment, including the agent, key, door, and goal.
+Lastly, the draw_gif_from_seq() function allows you to generate and save a gif image based on a given action sequence.
+
+
+2. example.py
+You can refer to the example.py file to learn how to use the utilities provided in utils.py and interact with the gym-minigrid library. The example.py file serves as a guide and provides examples of how to effectively utilize the utilities and work with the gym-minigrid environment
+
+<h2> Main Functions </h2>
+Part A
+In the known_envs folder run the main.py file, it takes its path from path_names_.py file and the motion model and stage cost is defined in motion_model_.py and stage_cost_.py respectively. 
+This script is used to implement Dynamic Programming on the environments specified in Part A. There are seven different parts in A, and this code will create the shortest paths for each of the environments. Usage:
+
+```
+python3 main.py
+
+```
+Part B
+In the unknown_envs folder run the final_part_b.py file this script is used to implement Dynamic Programming on the environments specified in Part B. This program creates a single policy function for all the maps in Part B and creates the shortest path for any environment in this from the single policy function. Usage :
+
+```
+python3 final_part_b.py
+
+```
